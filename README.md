@@ -1,3 +1,10 @@
+<img width="1366" height="768" alt="Fraud Detection" src="https://github.com/user-attachments/assets/8e2c9792-12f3-4f90-9df2-0aa28e9ebb65" />
+
+
+
+
+
+
 # Credit Card Fraud Detection
 ### Django REST API · MySQL · React · Vite · Tailwind CSS · Scikit-learn
 
