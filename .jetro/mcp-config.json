@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "jetro": {
+      "command": "C:\\Users\\satya\\.jetro\\runtime\\node-win32-x64.exe",
+      "args": [
+        "C:\\Users\\satya\\.jetro\\mcp-server\\index.js"
+      ],
+      "env": {
+        "JET_WORKSPACE": "g:\\RealProject\\fraud_detection",
+        "JET_API_URL": "https://api.jetro.ai",
+        "PATH": "C:\\Users\\satya\\.jetro\\runtime;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Program Files\\Git\\cmd;C:\\Users\\satya\\AppData\\Local\\agy\\bin;C:\\Users\\satya\\AppData\\Local\\Programs\\Python\\Python314\\Scripts\\;C:\\Users\\satya\\AppData\\Local\\Programs\\Python\\Python314\\;C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\;C:\\Users\\satya\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\;C:\\Users\\satya\\AppData\\Local\\Programs\\Python\\Python313\\;C:\\Users\\satya\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\satya\\AppData\\Roaming\\npm;C:\\Users\\satya\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\satya\\AppData\\Local\\Programs\\Antigravity IDE\\bin;C:\\Users\\satya\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\copilot-shim"
+      }
+    }
+  }
+}
