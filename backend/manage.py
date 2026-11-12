@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+<<<<<<< HEAD
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
@@ -6,10 +7,17 @@ import sys
 
 def main():
     """Run administrative tasks."""
+=======
+import os
+import sys
+
+def main():
+>>>>>>> a9ecf3619af91e3193a93059edaf30eb81b1a071
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backend.settings')
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:
+<<<<<<< HEAD
         raise ImportError(
             "Couldn't import Django. Are you sure it's installed and "
             "available on your PYTHONPATH environment variable? Did you "
@@ -18,5 +26,10 @@ def main():
     execute_from_command_line(sys.argv)
 
 
+=======
+        raise ImportError("Couldn't import Django.") from exc
+    execute_from_command_line(sys.argv)
+
+>>>>>>> a9ecf3619af91e3193a93059edaf30eb81b1a071
 if __name__ == '__main__':
     main()

@@ -1,0 +1,27 @@
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML Models
+*.pkl
+*.joblib
+
+# Data
+*.csv
+
+# Env
+.env
+
+# Build
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
